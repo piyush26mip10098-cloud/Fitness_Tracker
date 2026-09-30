@@ -1,0 +1,28 @@
+{
+    "workouts": [
+        {
+            "type": "Enter workout type: Running",
+            "duration": 30,
+            "calories": 250,
+            "date": "2026-09-26"
+        },
+        {
+            "type": "gym",
+            "duration": 60,
+            "calories": 400,
+            "date": "2026-09-26"
+        }
+    ],
+    "habits": [
+        {
+            "name": "Drink 2L of water",
+            "completed_dates": [
+                "2026-09-27"
+            ]
+        },
+        {
+            "name": "30 Minute Walk",
+            "completed_dates": []
+        }
+    ]
+}
